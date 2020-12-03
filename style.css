@@ -7,8 +7,8 @@ body, main {
 }
 
 canvas {
-  width: 50% !important;
-  height: 50% !important;
+  width: 80% !important;
+  height: 80% !important;
   align-items: center !important;
 }
 
